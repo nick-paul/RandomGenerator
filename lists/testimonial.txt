@@ -1,0 +1,116 @@
+#INCLUDE
+name.txt
+
+#great_adj
+outstanding
+exceptional
+great
+impressive
+magnificent
+phenomenal
+wonderful
+fantastic
+lovely
+
+#fixable
+sink
+hole the kids made in the wall
+leak in our faucet
+toilet
+cracked tile in our [room]
+hole in our [room] wall
+broken [closet|cabinet] door
+chipped window
+ceiling fan
+[aluminum|vinal] siding
+
+#craftsman_adj
+tidy
+organized
+professional
+on time
+courteous
+friendly
+kind
+honest
+hard working
+
+#installable
+grab bar
+overhead fan
+door
+[crown|base] molding
+shelving unit
+lighting
+hardwood floor
+carpet
+
+#room
+kitchen
+bathroom
+bedroom
+living room
+dining room
+[kid|son|daughter]'s bedroom
+foyer
+office
+hallway
+basement
+
+#work
+paint
+drywall
+update
+repair
+repaint
+
+#service_adj
+was at my convince
+worked well with my schedule[|\_(and our [dogs|cats]\!) {%:5}]
+
+#open
+The Handyman Company [exceeded|surpassed] my expectations;
+Dear The Handyman Company,
+The Handyman Company,
+Wow,
+We had a [great_adj] experience with The Handyman Company,
+I wanted to tell you that
+I can always [trust|depend] on The Handyman Company,
+Excellent job,
+It was indeed a pleasure to work with The Handyman Company,
+The Handyman Company was a great find;
+I can always expect [great|exceptional|outstanding] [service|work] from The Handyman Company,
+[Great_adj] job;
+Thank you[\_so much|] for [quality|great] work;
+Another wonderful job;
+
+#end
+[Thanks|Thank you] The Handyman Company\!
+[Great_adj] work\!
+I highly recommend The Handyman Company\!
+I [won't [call|use]|can't imagine [calling|using]] anyone but The Handyman Company[\_for my home repair needs|]\!
+You guys did a [great_adj] job.
+I am very [pleased|happy with the work].
+
+#other
+[Great_adj] job - better than the original installers\!
+[open] [Male_name] is not even finished with the job yet and already I'm impressed\!
+Another [great_adj] job\!
+We didn't think it could be repaired and we are very [pleased|happy].
+Thank you for the [great_adj] job installing the new [installable] for us.
+
+#testimonial_template
+[other]
+[Male_name] did !an([great_adj]) job fixing the [fixable]\! The service [service_adj].
+[[open]\_|]I was very impressed with [Male_name]'s work [work.ing or [work]ing] our [room]. [end]
+[open] the [installable] is !an([great_adj]) addition to our home\! Thanks [Male_name]\!
+Service was [great_adj] and [service_adj]. [Male_name] was able to make [adjustments|a few small changes] and avoid [replacing|repairing] the entire [fixable]. [end]
+[open] [the craftsman|[Male_name]] was able to [install the [installable], even though I [bought the wrong size|couldn't get it to work myself|had trouble with it],|fix the [fixable]] [with great ease|like it was no problem]. [end]
+[open] we have [received|had] service [several|multiple] times from you. Each time the craftsman [was on time|respected our home|was very kind] and the service was [great_adj]. [end]
+[open] [despite my experiences with other handyman service companies,\_|][Male_name] [showed up|arrived] right on time\![\_I couldn't have asked for better service\!|\_The Handyman Company does what they say they will and nothing less\!|\_He is a pro\!|]
+[Male_name] was !x(1-2,[craftsman_adj],\, ) and [craftsman_adj]. [end]
+[The Handyman Company j|[Male_name] j|J]ust completed the [2nd|3rd|4th] job for [us|me|me and my husband|me and my family] - did [a|another] [great_adj] job.
+[The Handyman Company has|You guys have|[Male_name]] [really made a difference|made a huge difference] in [our|my] home. [end]
+
+#testimonial
+[testimonial_template] - [[Female_name]|[Male_name]] !ABC([a-z]).

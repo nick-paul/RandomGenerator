@@ -1,0 +1,470 @@
+#computer
+application 
+arcade game 
+attachment 
+audio 
+back up 
+blog 
+browser 
+capacity 
+CD 
+cell phone 
+circuit board 
+coding 
+communication 
+computer 
+console 
+crash 
+cursor 
+data 
+database 
+desktop 
+disk 
+download 
+duration 
+DVD 
+eject 
+electronics 
+email 
+encoded 
+field 
+file 
+folder 
+format 
+graphic 
+headset 
+high-tech 
+home page 
+icon 
+input 
+install 
+interactive 
+Internet 
+intranet 
+invention 
+keyboard 
+link 
+link 
+login 
+malfunction 
+memory 
+menu 
+miniaturization 
+modernization 
+monitor 
+mouse 
+navigation 
+network 
+online 
+online 
+output 
+password 
+phone 
+printer 
+privacy 
+profile 
+programming 
+record 
+resolution 
+scanner 
+scroll 
+simulator 
+smartphone 
+software 
+spam 
+tab 
+technology 
+template 
+text 
+upload 
+username 
+video game 
+webcam 
+weblog 
+website 
+wireless
+analog 
+app 
+bandwidth 
+bit 
+broadband 
+byte 
+client 
+computer model 
+computer operator 
+cyberbullying 
+cyberspace 
+digital 
+digitized 
+diskette 
+domain name 
+encryption 
+facsimile 
+fiber-optic 
+gigabyte 
+hard drive 
+hardware 
+HTML 
+instant message 
+integrated circuit 
+IP address 
+ISP 
+kilobyte 
+macro 
+megabyte 
+microchip 
+microprocessor 
+modem 
+multimedia 
+RAM 
+receiver 
+search engine 
+semiconductor 
+server 
+simulation 
+stereolithography 
+transmitter 
+URL 
+virus 
+WiFi 
+World Wide Web
+
+#volcano
+accumulate 
+active 
+aftershock 
+alert 
+cinders 
+core 
+crater 
+crust 
+damage 
+debris 
+deposit 
+depression 
+devastating 
+disaster 
+dormant 
+earthquake 
+epicenter 
+erode 
+erupt 
+erupting 
+eruption 
+evacuate 
+evacuation 
+explode 
+extinct 
+fault 
+fissure 
+foreshock 
+formation 
+gas leak 
+geologic 
+geologist 
+geology 
+intact 
+intensity 
+landslide 
+lava 
+magma 
+magnitude 
+molten 
+mudslide 
+natural disaster 
+phenomenon 
+plates 
+prepare 
+prepared 
+pressure 
+rumble 
+safety 
+safety plan 
+seismic 
+seismology 
+severe 
+siren 
+spew 
+terrain 
+tidal 
+tremor 
+tsunami 
+vent 
+vibrate 
+vibration 
+volcanic 
+volcano 
+warning
+
+#space
+ 	asteroid 
+astronaut 
+astronomer 
+astronomy 
+astrophysicist 
+atmosphere 
+axes 
+axis 
+binoculars 
+black hole 
+blastoff 
+capsule 
+celestial 
+cluster 
+comet 
+constellation 
+corona 
+cosmic 
+cosmologist 
+cosmos 
+crater 
+crescent moon 
+deep space 
+dock 
+docked 
+docking 
+eclipse 
+exploration 
+explorer 
+extraterrestrial 
+extraterrestrial 
+eyepiece 
+fireball 
+full moon 
+galaxy 
+gas giant 
+gravitational pull 
+gravity 
+half moon 
+impact 
+interstellar 
+Jupiter 
+launch 
+light-year 
+lunar 
+Mars 
+Martian 
+Mercury 
+meteor 
+meteorite 
+meteoroid 
+Milky Way 
+mission 
+module 
+Moon 
+moon phase 
+Neptune 
+new moon 
+nucleus 
+obscured 
+observatory 
+orbit 
+orbit 
+phase 
+phenomenon 
+pilot 
+pilot 
+planet 
+planetarium 
+Pluto 
+plutoid 
+polar 
+probe 
+radiate 
+re-entry 
+reflect 
+revolution 
+revolve 
+ring 
+rotate 
+rotation 
+satellite 
+Saturn 
+solar 
+solstice 
+space 
+space flight 
+space shuttle 
+space station 
+space travel 
+spacecraft 
+starry 
+sunspot 
+tail 
+technology 
+telescope 
+tilted 
+twinkling 
+universe 
+unknown 
+vacuum 
+Venus 
+waning 
+waxing 
+weightless 
+weightlessness 
+	aerospace 
+artificial satellite 
+asterism 
+asteroid belt 
+astronomical satellite 
+astrophysics 
+aurora borealis 
+big bang theory 
+bus 
+celestial body 
+communication satellite 
+dwarf planet 
+earth station 
+elliptical galaxy 
+environmental satellite 
+exoplanet 
+exosphere 
+GPS 
+irregular galaxy 
+Kuiper Belt 
+light filter 
+low-Earth orbit 
+luminosity 
+lunar eclipse 
+methane 
+military satellite 
+navigational satellite 
+nebula 
+neutron star 
+optical telescope 
+ozone layer 
+payload 
+phenomena 
+plasma 
+polar orbit 
+pulsar 
+quasar 
+radiation 
+radio telescope 
+reflected light 
+rille 
+solar eclipse 
+solar flare 
+solar radiation 
+solar system 
+solar wind 
+spiral galaxy 
+Sputnik 
+stratosphere 
+supernova 
+terrestrial planet 
+thermonuclear reaction 
+troposphere 
+ultraviolet ray 
+ultraviolet wave 
+weather satellite 
+X-ray 
+Earth    
+galaxy    
+moon    
+Moon    
+pull    
+rocket    
+shine    
+sky    
+star    
+Sun
+sunshine
+
+#rock
+aluminum 
+bedrock 
+clay 
+coal 
+compress 
+copper 
+crystal 
+cultured 
+deposit 
+diamond 
+dynamite 
+embedded 
+emerald 
+engraved 
+erode 
+facets 
+forge 
+fossil 
+gem 
+geologic 
+geologist 
+geology 
+grain 
+granite 
+grit 
+iron 
+jewel 
+karst 
+lead 
+marble 
+mine 
+mine 
+miner 
+mineral 
+mining 
+nugget 
+opal 
+ore 
+overburden 
+pearl 
+polish 
+precious metal 
+prospecting 
+prospector 
+quarry 
+quarry 
+quartz 
+ruby 
+set 
+silt 
+silver 
+slate 
+smelt 
+sodium 
+sparkling 
+steel 
+till 
+tin 
+turquoise 
+unearth
+alloy 
+amber 
+asterism 
+bauxite 
+carat 
+deposition 
+electrum 
+flint 
+gemologist 
+geomorphology 
+igneous rock 
+lapidary 
+limestone 
+lodestone 
+manganese 
+metamorphic rock 
+Mohs scale 
+obsidian 
+organic gem 
+prism 
+pumice 
+rock cycle 
+sandstone 
+sedimentary rock 
+sedimentation 
+shale 
+silica 
+smelting 
+stratigraphy 
+sulfur 
+zinc
+boulder    
+dust    
+pebble    
+rock   

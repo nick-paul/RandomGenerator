@@ -1,0 +1,34 @@
+//[million] - generates a random, written out, number from one to nine hundred ninety nine million nine hundred ninety nine thousand nine hundred ninety nine
+
+#one
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+
+#ten
+[ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen]
+twenty[{%:10}|\_[one]]
+thirty[{%:10}|\_[one]]
+forty[{%:10}|\_[one]]
+fifty[{%:10}|\_[one]]
+sixty[{%:10}|\_[one]]
+seventy[{%:10}|\_[one]]
+eighty[{%:10}|\_[one]]
+ninety[{%:10}|\_[one]]
+
+#hundred
+and [one] {%:30}
+and [ten] {%:30}
+[one] hundred and [ten]
+
+#thousand
+[hundred] thousand [hundred]
+
+#million
+[hundred] million [thousand]

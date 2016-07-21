@@ -1,0 +1,163 @@
+#INCLUDE
+rpg_name.txt
+color.txt
+
+#basic_weapon
+staff
+sword
+crossbow
+bow
+longbow
+dagger
+shortsword
+longsword
+axe
+javelin
+mace
+club
+shortbow
+trident
+hammer
+wand
+battle axe
+katana
+halberd
+sythe
+stave
+sling
+whip
+knife
+throwing knives
+
+#power
+might
+strength
+courage
+power
+speed
+dexterity
+fury
+agility
+clarity
+resistance
+defense
+fortitude
+freedom
+heroism
+invisibility
+invulnerability
+focus
+perception
+
+
+#material
+oak
+gold
+bronze
+silver
+iron
+diamond
+gold
+steel
+cobalt
+bone
+
+
+#modifier
+powerful
+short
+old
+plain
+large
+small
+rickety
+crude
+basic
+
+#gem
+emerald
+ruby
+pearl
+opal
+diamond
+sapphire
+amethyst
+tanzanite
+jade
+jasper
+quartz
+
+#trinket
+necklace
+ring
+collar
+[wrist|ankle] cuff
+bracelet
+trinket
+[[material]|[gem]] amulet of [[power]|[element]]
+
+#element
+fire
+earth
+water
+air
+science
+
+#armor
+chestplate
+hat
+helmet
+grievs
+
+#food
+slice of cheese {s:slices of cheese}
+slice of bread {s:slices of bread]
+loaf of bread {s:loaves of bread}
+slice of cake {s:sices of cake}
+meatball
+banana
+apple
+avacado
+carrot
+lime
+grapefruit
+
+#clothes
+hat
+shirt
+robe
+
+#profession
+mage
+wizard
+
+#weapon
+[|King\_][Rpg_name]'s [|[material]\_][basic_weapon][|\_of [power]] {%:30}
+[[modifier] [material]|[material]] [basic_weapon][|\_of [power]]
+[basic_weapon] with [gem] [engravings|inset]
+
+#junk
+[|[material] ]mirror[| with [gem] engravings]
+[material] pocketwatch[| with !an([material]) chain]
+[small |large |][bottle|flask|jar] of [basic_color] [liquid|goo|slime]
+[broken|busted] [material] [basic_weapon]
+[basic_color] robe
+[note|letter] [to|from] [Rpg_name]
+piece of[ broken| rusty|] machinery
+portrait of[ King|] [Rpg_name]
+[basic_color] [super bounce|bouncy] ball
+[water [gun|blaster]|super soaker]
+[basic_color] crayon
+
+
+#loot
+[weapon]
+[potion|[2-5] potions] of [power]
+[[gem]|!s([2-4],gem)] {%:40}
+[{%:30}|[material]\_|[gem]\_][trinket]
+[material] shield[|\_with [gem] engravings]
+[junk]
+[material] [armor]
+
+#chest
+In the chest you find:\n!x(2-5, • [loot],\n)

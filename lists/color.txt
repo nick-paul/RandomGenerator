@@ -1,0 +1,162 @@
+#color
+[[color_basic]|[color_html]] {basic:[color_basic], html:[color_html]} 
+
+#color_basic
+red
+green
+blue
+orange
+purple
+yellow
+lime
+pink
+brown
+black
+white
+grey
+magenta
+
+#color_html
+indian red
+light coral
+salmon
+dark salmon
+light salmon
+crimson
+red
+fire brick
+dark red
+pink
+light pink
+hot pink
+deep pink
+medium violet red
+pale violet red
+light salmon
+coral
+tomato
+orange red
+dark orange
+orange
+gold
+yellow
+light yellow
+lemon chiffon
+light goldenrod yellow
+papaya whip
+moccasin
+peach puff
+pale goldenrod
+khaki
+dark khaki
+lavender
+thistle
+plum
+violet
+orchid
+fuchsia
+magenta
+medium orchid
+medium purple
+amethyst
+blue violet
+dark violet
+dark orchid
+dark magenta
+purple
+indigo
+slate blue
+dark slate blue
+medium slate blue
+green yellow
+chartreuse
+lawn green
+lime
+lime green
+pale green
+light green
+medium spring green
+spring green
+medium sea green
+sea green
+forest green
+green
+dark green
+yellow green
+olive drab
+olive
+dark olive green
+medium aquamarine
+dark sea green
+light sea green
+dark cyan
+teal
+aqua
+cyan
+light cyan
+pale turquoise
+aquamarine
+turquoise
+medium turquoise
+dark turquoise
+cadet blue
+steel blue
+light steel blue
+powder blue
+light blue
+sky blue
+light sky blue
+deep sky blue
+dodger blue
+cornflower blue
+medium slate blue
+royal blue
+blue
+medium blue
+dark blue
+navy
+midnight blue
+cornsilk
+blanched almond
+bisque
+navajo white
+wheat
+burly wood
+tan
+rosy brown
+sandy brown
+goldenrod
+dark goldenrod
+peru
+chocolate
+saddle brown
+sienna
+brown
+maroon
+white
+snow
+honeydew
+mint cream
+azure
+alice blue
+ghost white
+white smoke
+seashell
+beige
+old lace
+floral white
+ivory
+antique white
+linen
+lavender blush
+misty rose
+gainsboro
+light grey
+silver
+dark gray
+gray
+dim gray
+light slate gray
+slate gray
+dark slate gray
+black
